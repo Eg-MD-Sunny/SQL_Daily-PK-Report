@@ -72,12 +72,5 @@ GROUP BY	CAST(egg1.dbo.tobdt(CEL.Date) AS DATE),
 			PKE.ChaldalUserName
 
 
-	
-
-
---select CONVERT(datetimeoffset,GETDATE())		
---select CAST(GETDATE()-1 as date)
---select concat(CAST(GETDATE()-1 as date), ' 00:00  +06:00')
-
 
 
